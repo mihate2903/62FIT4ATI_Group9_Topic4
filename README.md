@@ -8,9 +8,9 @@
 This project aims to solve the **Sentiment Extraction** problem: Given a tweet and a sentiment label, the model extracts the specific substring that supports that sentiment using **RoBERTa**.
 
 ## 👥 Team Members
-1. **Tạ Hải Long (Leader)**
-2. **Nguyễn Văn Dũng**
-3. **Trần Anh Quân**
+1. **Lê Anh Quân (2201140071) (Leader)**
+2. **Đỗ Tuấn Dũng (2201140018)**
+3. **Tạ Hải Long (2101140049)**
 
 ---
 
