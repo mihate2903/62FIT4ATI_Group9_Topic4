@@ -20,7 +20,7 @@ This project aims to solve the **Sentiment Extraction** problem: Given a tweet a
 - `README.md`: Setup instructions (this file).
 - `train.csv`: Training dataset (Required input).
 - `test.csv`: Test dataset (Required input).
-- `best_model.bin`: Trained weights (Output).
+- `best_model.bin`: Trained weights (Output) (Drive link: https://drive.google.com/file/d/1DHthHO9DHfD9yyGCgIKgE46OsEmajYd9/view?usp=drive_link)
 - `submission.csv`: Inference results (Output).
 
 ---
